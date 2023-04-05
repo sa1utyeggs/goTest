@@ -2,6 +2,6 @@ package goTest
 
 import "fmt"
 
-func main() {
+func Fpl() {
 	fmt.Println("hello")
 }
